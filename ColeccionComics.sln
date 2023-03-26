@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColeccionComics", "ColeccionComics\ColeccionComics.csproj", "{C3BF9268-38F2-4FCE-AE79-8F93E308FF67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BBDD", "BBDD\BBDD.csproj", "{ADB20546-74FA-4786-8705-041DBEEBB024}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menus", "Menus\Menus.csproj", "{06028E4B-9E7E-40D9-8515-D2CEE81121B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3BF9268-38F2-4FCE-AE79-8F93E308FF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BF9268-38F2-4FCE-AE79-8F93E308FF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BF9268-38F2-4FCE-AE79-8F93E308FF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BF9268-38F2-4FCE-AE79-8F93E308FF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB20546-74FA-4786-8705-041DBEEBB024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB20546-74FA-4786-8705-041DBEEBB024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB20546-74FA-4786-8705-041DBEEBB024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB20546-74FA-4786-8705-041DBEEBB024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06028E4B-9E7E-40D9-8515-D2CEE81121B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06028E4B-9E7E-40D9-8515-D2CEE81121B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06028E4B-9E7E-40D9-8515-D2CEE81121B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06028E4B-9E7E-40D9-8515-D2CEE81121B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D60B06-08B5-47BA-8822-34C70B78CF6E}
+	EndGlobalSection
+EndGlobal
